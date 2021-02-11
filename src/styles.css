@@ -1,0 +1,18 @@
+.App {
+  font-family: "Jomhuria", cursive;
+  text-align: center;
+}
+body {
+  background-color: #737373;
+}
+input {
+  border: 3px solid;
+  border-radius: 1rem;
+  background-color: #525252;
+  outline: none;
+  padding: 1rem;
+  width: 70%;
+}
+h1 {
+  margin-top: 2rem;
+}
