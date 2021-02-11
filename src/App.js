@@ -131,7 +131,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1 style={{ color }}>EMOJIPEDIA</h1>
+      <h1 style={{ color }}>ANIMALPEDIA</h1>
       <input onChange={emojiEventHandler}></input>
       <h2 style={{ color }}>
         <u>{meaning}</u>
