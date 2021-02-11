@@ -136,7 +136,7 @@ export default function App() {
       <h2 style={{ color }}>
         <u>{meaning}</u>
       </h2>
-      <h3 style={{ color }}>Emojis we know:</h3>
+      <h3 style={{ color }}>Emojis we know : </h3>
       {emojisWeKnow.map(function (emoji) {
         return (
           <span
